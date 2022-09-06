@@ -11,7 +11,7 @@
 	<div id="header">
 		<div class="head-view">
 			<ul>
-				<li><b>Robin's Nest</b></li>
+				<li><b>Robin's hood</b></li>
 				<li></li>
 				<li></li>
 				<li></li>
